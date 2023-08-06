@@ -1,4 +1,4 @@
-# Final-ICR-Project
+# Final-Project-Predictive Medicine in Bioinformatics
 Welcome to the "Predictive Medicine in Bioinformatics" competition hosted by InVitro Cell Research, LLC (ICR). In this notebook, we will embark on a data science journey to develop a predictive model capable of detecting three medical conditions based on measurements of health characteristics.
 
 Objective: The primary objective of this competition is to predict whether a person has any of three medical conditions (Class 1) or none of the three medical conditions (Class 0). By utilizing predictive models, we aim to streamline the process of determining these medical conditions, which traditionally requires invasive and time-consuming data collection from patients. Our predictive model will leverage measurements of key health characteristics to make reliable and private predictions, thus potentially revolutionizing the field of bioinformatics.
